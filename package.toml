@@ -1,6 +1,7 @@
 [package]
-version = "0.1.0"
+version = "0.1.1"
 name = { en = "ArchWiki", zh = "ArchWiki" }
 summary = { en = "Search and read the ArchWiki, section by section; Chinese community wiki too", zh = "搜、读 ArchWiki，可以按小节读；也能查中文社区维基" }
 author = "SHORiN-KiWATA"
 icon = "book"
+logo = "logo.png"
