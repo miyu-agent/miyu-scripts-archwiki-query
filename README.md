@@ -1,4 +1,4 @@
-# ArchWiki（miyu-scripts-archwiki-query）
+# ArchWiki（archwiki-query）
 
 给 Miyu 的脚本工具 `archwiki`：搜 ArchWiki、读页面。
 
